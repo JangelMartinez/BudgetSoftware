@@ -1,4 +1,4 @@
-#Budget software#
+# Budget software #
 
 ## Stack IT ##
 
